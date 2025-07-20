@@ -46,7 +46,7 @@ DocSpot is an online doctor appointment booking system designed to simplify the 
 
 bash
 # Clone the repository
-git clone https://github.com/your-username/docspot-appointment-booking.git
+https://github.com/LOKESH1615s/DOCSPOT-SEAMLESS-APPOINTMENT-BOOKING-FOR-HEALTH
 
 # Install frontend dependencies
 cd client
